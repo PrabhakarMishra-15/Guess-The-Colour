@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Guess The Colour </string>
+    <string name="Random_Colour">RANDOM COLOUR</string>
+    <string name="switchColour">SWITCH COLOUR</string>
+    <string name="Switch_Red">Switch To Red</string>
+    <string name="Switch_blue">Switch To Blue</string>
+    <string name="switch_Colour">Switch Colour</string>
+    <string name="Change_Colour">CHANGE COLOUR</string>
+</resources>
